@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* 淺灰色背景 */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #008CBA; /* 藍色背景 */
+    color: white;
+    padding: 20px;
+    text-align: center; /* 文字居中 */
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center; /* 內容置中 */
+}
+
+h1, h2, h3 {
+    color: #333; /* 深色標題 */
+    margin: 10px 0; /* 上下邊距 */
+}
+
+p {
+    line-height: 1.6;
+    color: #555; /* 更柔和的文字顏色 */
+}
+
+a {
+    color: #008CBA; /* 藍色連結 */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
